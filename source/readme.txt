@@ -1,1 +1,1 @@
-Subfolder for all inform source and materials
+Subfolder for all inform source code and materials
