@@ -1,4 +1,4 @@
-# readme.md for IFhostingtest repository
+# readme.txt for IFhostingtest repository
 
 ## Purpose of repository
 
