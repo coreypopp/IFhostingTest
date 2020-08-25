@@ -17,5 +17,5 @@ Other than the readme.txt, files for this website are generated using Inform 7 "
 and copied from the local Release folder to the Github repository.
 
 The interpreter subfolder is automatically generated and is required for the game to run in a web browser.
-The source subfolder is manually created and contains the most recent productioin version of the source code.
-The feelies subfolder is manually created and contains all of the games feelies.
+The source subfolder is manually created and contains the most recent source code.
+The feelies subfolder is manually created and contains all of the game's feelies.
