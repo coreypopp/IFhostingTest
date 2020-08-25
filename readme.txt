@@ -16,4 +16,6 @@ readme.txt for IFhostingtest repository
 Other than the readme.txt, files for this website are generated using Inform 7 "Release along with an interpreter" 
 and copied from the local Release folder to the Github repository.
 
-The subfolder "interpreter" is required.
+The interpreter subfolder is automatically generated and is required for the game to run in a web browser.
+The source subfolder is manually created and contains the most recent productioin version of the source code.
+The feelies subfolder is manually created and contains all of the games feelies.
