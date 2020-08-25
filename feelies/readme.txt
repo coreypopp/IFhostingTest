@@ -1,2 +1,1 @@
-The feelies subfolder houses all of the nostalgic bits that interactive-fiction gamers loved from back in the 80s.
-Here you will find maps, instructions, and other virtual "feelies" that may aid you in playing (and winning) the game.
+The feelies subfolder houses all of the nostalgic bits that interactive-fiction gamers loved from back in the 80s. Here you will find maps, instructions, and other virtual "feelies" that may aid you in playing (and winning) the game.
